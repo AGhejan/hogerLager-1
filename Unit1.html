@@ -1,0 +1,70 @@
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <title>Raad het Nummer</title>
+    <style>
+    body{
+    background-color: #1A1D20;
+    font-weight: normal;
+    }
+
+    h1{
+    color: white;
+    font-weight: bold;
+    }
+
+    h2{
+    color: white;
+    font-weight: medium;
+    font-size: 15px;
+    }
+
+    h6 {
+    color: #ACB6C2;
+    font-weight: normal;
+    font-size: 15px;
+    }
+
+    button{
+    font-weight: bold;
+    font-size: 15px;
+    }
+
+    .nummerLabel{
+        font-weight: normal;
+       color: white;
+       font-size: 15px;
+    }
+
+    </style>
+
+  </head>
+  <body>
+  <div class="container">
+  <div class="row">
+  <div  class="col-md-8">
+  <nav class="navbar navbar-dark bg-dark justify-content-between">
+  <a class="navbar-brand" id="Titel"></a>
+  <form class="form-inline">
+  <button class="btn btn-outline-info my-2 my-sm-0" type="button" id="btnScorebord">Scorebord</button>
+  </form>
+  </nav>
+  <h1 class="text-center" id="Titel"></h1>
+  <br>
+  <div class="form-group">
+    <label class="nummerLabel">Uw nummer</label>
+    <input type="number" class="form-control" id="txtInput" placeholder="Een nummer van 1 tot 100">
+  </div>
+    <button class="btn btn-primary btn-lg btn-block text-center" type="BUTTON" id="btnRaden">Check</button>
+    <br>
+    <label class="form-control alert alert-secondary" id="Kans"></label>
+    <label class="form-control alert alert-secondary" id="HoogsteScore"></label>
+    <hr>
+    <button class="btn btn-info btn-lg btn-block text-center" type="BUTTON" id="btnNieuwSpel"></button>
+    <br>
+  </div>
+  </div>
+  </div>
+
+  </body>
+</html>

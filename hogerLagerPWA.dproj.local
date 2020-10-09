@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/25 15:04:19.000.656,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\Project1.html</Transaction>
+    <Transaction>2020/09/25 15:04:19.000.808,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/25 15:04:20.000.998,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\IconResMid.png</Transaction>
+    <Transaction>2020/09/25 15:04:20.000.981,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\IconResHigh.png</Transaction>
+    <Transaction>2020/09/25 15:04:20.000.906,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\Manifest.json</Transaction>
+    <Transaction>2020/09/25 15:04:20.000.938,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\ServiceWorker.js</Transaction>
+    <Transaction>2020/09/25 15:04:21.000.031,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\IconResLow.png</Transaction>
+    <Transaction>2020/09/25 15:04:46.000.979,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\Unit1.html=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit1.html</Transaction>
+    <Transaction>2020/09/25 15:04:46.000.979,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit1.pas</Transaction>
+    <Transaction>2020/09/25 15:04:46.000.979,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit1.dfm</Transaction>
+    <Transaction>2020/09/25 15:04:56.000.676,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\Project1.html=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Project1.html</Transaction>
+    <Transaction>2020/09/25 15:04:58.000.116,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\Manifest.json=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Manifest.json</Transaction>
+    <Transaction>2020/09/25 15:05:00.000.023,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\ServiceWorker.js=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\ServiceWorker.js</Transaction>
+    <Transaction>2020/09/25 15:05:05.000.990,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\IconResMid.png</Transaction>
+    <Transaction>2020/09/25 15:05:05.000.954,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\IconResHigh.png</Transaction>
+    <Transaction>2020/09/25 15:05:05.000.869,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Project1.dproj</Transaction>
+    <Transaction>2020/09/25 15:05:06.000.023,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\IconResLow.png</Transaction>
+    <Transaction>2020/09/25 15:05:29.000.637,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.pas</Transaction>
+    <Transaction>2020/09/25 15:05:52.000.498,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.pas=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Spel.pas</Transaction>
+    <Transaction>2020/09/25 15:59:00.000.616,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Project1.dproj=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\hogerLagerPWA.dproj</Transaction>
+    <Transaction>2020/09/25 15:59:00.000.644,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Project1.html=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\hogerLagerPWA.html</Transaction>
+    <Transaction>2020/09/30 09:16:25.000.212,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.pas</Transaction>
+    <Transaction>2020/09/30 09:24:31.000.369,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.pas</Transaction>
+    <Transaction>2020/09/30 10:20:12.000.988,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Untitled1.htm</Transaction>
+    <Transaction>2020/09/30 10:23:15.000.760,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.pas=</Transaction>
+    <Transaction>2020/09/30 10:23:45.000.233,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit3.pas</Transaction>
+    <Transaction>2020/09/30 10:24:05.000.141,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit3.pas</Transaction>
+    <Transaction>2020/09/30 10:24:14.000.901,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit3.pas=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.pas</Transaction>
+    <Transaction>2020/09/30 10:24:14.000.901,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit3.dfm=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.dfm</Transaction>
+    <Transaction>2020/09/30 10:25:33.000.438,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.pas=</Transaction>
+    <Transaction>2020/09/30 10:25:40.000.076,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit3.pas</Transaction>
+    <Transaction>2020/09/30 10:28:39.000.055,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit4.pas</Transaction>
+    <Transaction>2020/10/01 08:50:01.000.374,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit5.pas</Transaction>
+    <Transaction>2020/10/01 10:43:21.000.053,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit4.pas=</Transaction>
+    <Transaction>2020/10/01 13:31:59.000.868,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.pas=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit5.pas</Transaction>
+    <Transaction>2020/10/01 13:31:59.000.868,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.dfm=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit5.dfm</Transaction>
+    <Transaction>2020/10/01 13:31:59.000.868,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.html=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit5.html</Transaction>
+    <Transaction>2020/10/01 13:31:59.000.880,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit5.dfm=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.dfm</Transaction>
+    <Transaction>2020/10/01 13:31:59.000.880,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit5.pas=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.pas</Transaction>
+    <Transaction>2020/10/01 13:31:59.000.880,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit5.html=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit2.html</Transaction>
+    <Transaction>2020/10/01 13:32:14.000.846,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit6.pas</Transaction>
+    <Transaction>2020/10/02 15:00:02.000.320,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit6.pas</Transaction>
+    <Transaction>2020/10/02 15:01:32.000.034,=C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit6.pas</Transaction>
+    <Transaction>2020/10/02 15:53:12.000.965,C:\Users\Matthias Vancoillie\Documents\Embarcadero\Studio\Projects\hogerLagerPWA\Unit6.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="hogerLagerPWA.html"/>
+    <File Path="IconResHigh.png"/>
+    <File Path="IconResLow.png"/>
+    <File Path="IconResMid.png"/>
+    <File Path="Manifest.json"/>
+    <File Path="ServiceWorker.js"/>
+    <File Path="Spel.pas"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.html"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit5.html"/>
+  </ProjectSortOrder>
+</BorlandProject>
